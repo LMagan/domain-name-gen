@@ -1,1 +1,15 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+div {
+  display: flex;
+  justify-content: center;
+  background-color: beige;
+  margin: 10px 500px 10px 500px;
+}
+body {
+  background-color: grey;
+}
+li {
+  font-size: 30px;
+  list-style: square;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
